@@ -2,7 +2,7 @@
  👋 Hi, I’m @tania-dominguez
 - 👀 I’m interested in front end, ux & ui design
 - 🌱 I’m currently learning ux/ui design
-- 💞️ I’m looking to collaborate in volunteer projects that allow me to gain experience and complete <a href="http://tania-dominguez.com" target="_blank">my Portfolio</a>
+- 💞️ I’m looking to collaborate in volunteer projects that allow me to gain experience and complete <a href="https://tania-dominguez.com" target="_blank">my Portfolio</a>
 - 📫 You can reach me through <a href="https://www.linkedin.com/in/tania-dominguez/" target="_blank">my LinkedIn</a>
 
 <!---
