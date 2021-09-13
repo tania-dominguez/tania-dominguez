@@ -1,4 +1,4 @@
-<img src="https://media-exp3.licdn.com/dms/image/C4D16AQFdvAp31zsrQA/profile-displaybackgroundimage-shrink_350_1400/0/1623614372585?e=1631145600&v=beta&t=hx0qvcugDDol6KsgX1qIP15rbyK4T3Cup2gi6EiNVIY">
+<img src="https://tania-dominguez.com/wp-content/uploads/2021/09/cabecera-redes-e1631523148285.jpg">
  👋 Hi, I’m @tania-dominguez
 - 👀 I’m interested in front end, ux & ui design
 - 🌱 I’m currently learning ux/ui design
