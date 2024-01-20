@@ -1,4 +1,4 @@
-<img src="[https://tania-dominguez.com/wp-content/uploads/2021/09/cabecera-redes-e1631523148285.jpg](https://tania-dominguez.com/wp-content/uploads/2024/01/cabecera-redes.jpg)">
+<img src="https://tania-dominguez.com/wp-content/uploads/2024/01/cabecera-redes.jpg">
  👋 Hi, I’m @tania-dominguez
 - 👀 I’m interested in front end, ux & ui design
 - 🌱 I’m still learning ux/ui design
